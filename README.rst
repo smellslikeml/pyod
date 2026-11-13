@@ -505,6 +505,11 @@ PyOD is organized into two functional groups: **(i) Detection Algorithms**, with
      - Deep Anomaly Detection with Deviation Networks (`example <https://github.com/yzhao062/pyod/blob/development/examples/devnet_example.py>`__)
      - 2019
      - [#Pang2019Deep]_
+   * - Neural Networks
+     - CDN
+     - Anomalies as Residuals: Cauchy Displacement Networks (`example <https://github.com/yzhao062/pyod/blob/development/examples/cdn_example.py>`__)
+     - 2026
+     - [#Cao2026Cauchy]_
    * - Graph-based
      - R-Graph
      - Outlier detection by R-graph (`example <https://github.com/yzhao062/pyod/blob/development/examples/rgraph_example.py>`__)
@@ -831,6 +836,8 @@ Reference
 .. [#Burgess2018Understanding] Burgess, Christopher P., et al. "Understanding disentangling in beta-VAE." arXiv preprint arXiv:1804.03599 (2018).
 
 .. [#Campello2013Density] Campello, R.J.G.B., Moulavi, D. and Sander, J., 2013, April. Density-based clustering based on hierarchical density estimates. In *Pacific-Asia Conference on Knowledge Discovery and Data Mining* (pp. 160-172). Springer.
+
+.. [#Cao2026Cauchy] Cao, Y. and Guo, Z., 2026. Anomalies as Residuals: Cauchy Displacement Networks. arXiv preprint arXiv:2610.41387.
 
 .. [#Cook1977Detection] Cook, R.D., 1977. Detection of influential observation in linear regression. Technometrics, 19(1), pp.15-18.
 
